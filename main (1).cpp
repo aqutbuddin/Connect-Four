@@ -7,7 +7,7 @@
 // Specifically, I added a function that outputs all the moves created by the players upon the user input of a 'P' or 'p'.  
 // I also added a function that undoes the most recent move made by the user upon the user input of a 'U' or 'u'.
 //To create and correctly execute these functions, I utilized a class and implemented a linked list to store the moves of each player.  
-// Pass by reference allowed me to manipulate the boards and pointers associated with each node. 
+// Pass by reference allowed me to manipulate the boards and pointers associated with each node.  
 
 // Header Files 
 #include <iostream>
