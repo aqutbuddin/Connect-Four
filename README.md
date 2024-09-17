@@ -1,5 +1,5 @@
 Connect Four Game
-This project is a Connect Four game implemented in C++. The game supports two players, with features including: undoing moves, printing move history, and detecting wins.
+This project is a Connect Four game implemented in C++. The game supports two players, with features including undoing moves, printing move history, and detecting wins. /n
 The game is played on a 6x7 board, and players take turns to drop their pieces into columns.
 
 Features
